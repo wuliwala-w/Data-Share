@@ -115,3 +115,6 @@ peer chaincode query -o localhost:7050 --ordererTLSHostnameOverride orderer.exam
 peer chaincode query -o localhost:7050 --ordererTLSHostnameOverride orderer.example.com --tls --cafile "${PWD}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem" -C mychannel -n datashare -c '{"function":"QueryFileHistory","Args":["file1"]}'
 
 "file+history"作为key，share，recieve，time，
+
+
+test github
