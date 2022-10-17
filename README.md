@@ -116,5 +116,3 @@ peer chaincode query -o localhost:7050 --ordererTLSHostnameOverride orderer.exam
 
 "file+history"作为key，share，recieve，time，
 
-
-test github
